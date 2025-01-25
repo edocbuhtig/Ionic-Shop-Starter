@@ -1,2 +1,2 @@
-# Ionic-Shop-Starter
-Ionic Shopping Starter Template
+# Ionic Shop Starter
+Ionic Shopping App iOS/Android Starter Template
